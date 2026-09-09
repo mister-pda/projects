@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/lock-open-svgrepo-com.svg</file>
+        <file>icons/lock-svgrepo-com.svg</file>
+        <file>icons/lock-grey.svg</file>
+        <file>icons/lock-open-grey.svg</file>
+    </qresource>
+</RCC>
